@@ -4,7 +4,7 @@
 
 # SETUP:
 
-1) create database f1racingevents on MYSQL
+1) create database called *f1racingevents* on MYSQL
 
 2) run command: git clone https://github.com/khalipha/f1races.git
 3) run command: cd f1races
